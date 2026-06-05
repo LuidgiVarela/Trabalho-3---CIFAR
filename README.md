@@ -10,4 +10,5 @@ Trabalho Computacional 3 de classificação de imagens do CIFAR-10 com PyTorch, 
 ## Arquivos
 
 - `Trabalho_3_CIFAR10_Luidgi_Marcos.ipynb`: notebook executado com os resultados.
+- `Trabalho_3_CIFAR10_Luidgi_Marcos_sem_outputs.ipynb`: notebook limpo, sem outputs, para reexecução.
 - `Trabalho_3_CIFAR10_Luidgi_Marcos.pdf`: PDF gerado a partir da execução completa do notebook.
