@@ -1,0 +1,9 @@
+.venv/
+data/
+lightning_logs/
+pesos/
+__pycache__/
+*.pyc
+
+CIFAR10_trabalho_final*.ipynb
+Trabalho_3_CIFAR10_Luidgi_Marcos.html
